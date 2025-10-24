@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Imagens com IA",
+  "description": "Um aplicativo da web que utiliza a API Gemini para analisar imagens enviadas por usuários. Ele identifica objetos, cenários e contextos, fornecendo uma descrição detalhada e percepções sobre o conteúdo da imagem.",
+  "requestFramePermissions": []
+}
